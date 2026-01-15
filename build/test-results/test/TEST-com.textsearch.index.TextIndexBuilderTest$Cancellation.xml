@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.textsearch.index.TextIndexBuilderTest$Cancellation" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-01-15T09:31:28" hostname="SPT-MAC-FGY2HG33DX" time="0.029">
+  <properties/>
+  <testcase name="should cancel indexing()" classname="com.textsearch.index.TextIndexBuilderTest$Cancellation" time="0.018"/>
+  <testcase name="should clear index on cancellation()" classname="com.textsearch.index.TextIndexBuilderTest$Cancellation" time="0.009"/>
+  <testcase name="should report cancelled status()" classname="com.textsearch.index.TextIndexBuilderTest$Cancellation" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

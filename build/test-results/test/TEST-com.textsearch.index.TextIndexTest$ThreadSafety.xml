@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.textsearch.index.TextIndexTest$ThreadSafety" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-01-15T09:31:29" hostname="SPT-MAC-FGY2HG33DX" time="0.098">
+  <properties/>
+  <testcase name="should handle concurrent reads and writes()" classname="com.textsearch.index.TextIndexTest$ThreadSafety" time="0.098"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

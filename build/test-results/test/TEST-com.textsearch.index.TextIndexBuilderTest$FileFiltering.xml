@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.textsearch.index.TextIndexBuilderTest$FileFiltering" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-01-15T09:31:28" hostname="SPT-MAC-FGY2HG33DX" time="0.006">
+  <properties/>
+  <testcase name="should filter by file extension()" classname="com.textsearch.index.TextIndexBuilderTest$FileFiltering" time="0.001"/>
+  <testcase name="should exclude patterns()" classname="com.textsearch.index.TextIndexBuilderTest$FileFiltering" time="0.002"/>
+  <testcase name="should skip files exceeding size limit()" classname="com.textsearch.index.TextIndexBuilderTest$FileFiltering" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

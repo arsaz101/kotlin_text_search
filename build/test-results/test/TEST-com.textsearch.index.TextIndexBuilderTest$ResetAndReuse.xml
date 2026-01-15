@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.textsearch.index.TextIndexBuilderTest$ResetAndReuse" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-01-15T09:31:28" hostname="SPT-MAC-FGY2HG33DX" time="0.004">
+  <properties/>
+  <testcase name="should be reusable after completion()" classname="com.textsearch.index.TextIndexBuilderTest$ResetAndReuse" time="0.002"/>
+  <testcase name="should not allow concurrent builds()" classname="com.textsearch.index.TextIndexBuilderTest$ResetAndReuse" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

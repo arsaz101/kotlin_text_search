@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.textsearch.index.TextIndexBuilderTest$ProgressReporting" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-01-15T09:31:28" hostname="SPT-MAC-FGY2HG33DX" time="0.003">
+  <properties/>
+  <testcase name="should emit progress updates()" classname="com.textsearch.index.TextIndexBuilderTest$ProgressReporting" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

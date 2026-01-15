@@ -168,21 +168,6 @@ if (response.truncated) {
 }
 ```
 
-## File System Watching (Optional)
-
-The library can watch for file changes and update the index automatically:
-
-```kotlin
-// Start watching
-library.startWatching(rootDirectory)
-
-// The index is automatically updated when files change
-// ...
-
-// Stop watching
-library.stopWatching()
-```
-
 ## Building and Testing
 
 ```bash

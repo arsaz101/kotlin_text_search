@@ -7,9 +7,8 @@ A Kotlin library for building text indexes and executing search queries. Designe
 ### Index Builder
 - **Parallel indexing**: Files are processed concurrently using configurable parallelism
 - **Progress reporting**: Real-time progress updates via Kotlin Flow
-- **Cancellation support**: Graceful cancellation that clears partial state
+- **Cancellation support**: Cancellation that clears partial state
 - **File filtering**: Configure file extensions, exclusion patterns, and size limits
-- **Incremental updates** (optional): Watch for file system changes and update index automatically
 
 ### Search Query Executor
 - **Parallel search**: Search queries execute across multiple threads

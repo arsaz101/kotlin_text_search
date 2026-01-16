@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.textsearch.TextSearchLibraryTest$EdgeCases" tests="7" skipped="0" failures="0" errors="0" timestamp="2026-01-15T09:31:28" hostname="SPT-MAC-FGY2HG33DX" time="0.044">
+<testsuite name="com.textsearch.TextSearchLibraryTest$EdgeCases" tests="7" skipped="0" failures="0" errors="0" timestamp="2026-01-16T06:43:51" hostname="SPT-MAC-FGY2HG33DX" time="0.046">
   <properties/>
   <testcase name="should handle empty files()" classname="com.textsearch.TextSearchLibraryTest$EdgeCases" time="0.002"/>
   <testcase name="should handle deep directory nesting()" classname="com.textsearch.TextSearchLibraryTest$EdgeCases" time="0.005"/>
-  <testcase name="should handle empty directory()" classname="com.textsearch.TextSearchLibraryTest$EdgeCases" time="0.002"/>
+  <testcase name="should handle empty directory()" classname="com.textsearch.TextSearchLibraryTest$EdgeCases" time="0.001"/>
   <testcase name="should handle files with only whitespace()" classname="com.textsearch.TextSearchLibraryTest$EdgeCases" time="0.002"/>
-  <testcase name="should handle very long lines()" classname="com.textsearch.TextSearchLibraryTest$EdgeCases" time="0.005"/>
-  <testcase name="should handle many small files()" classname="com.textsearch.TextSearchLibraryTest$EdgeCases" time="0.025"/>
-  <testcase name="should handle unicode content()" classname="com.textsearch.TextSearchLibraryTest$EdgeCases" time="0.002"/>
+  <testcase name="should handle very long lines()" classname="com.textsearch.TextSearchLibraryTest$EdgeCases" time="0.004"/>
+  <testcase name="should handle many small files()" classname="com.textsearch.TextSearchLibraryTest$EdgeCases" time="0.026"/>
+  <testcase name="should handle unicode content()" classname="com.textsearch.TextSearchLibraryTest$EdgeCases" time="0.003"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

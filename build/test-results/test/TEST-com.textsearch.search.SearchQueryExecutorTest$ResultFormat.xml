@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.textsearch.search.SearchQueryExecutorTest$ResultFormat" tests="5" skipped="0" failures="0" errors="0" timestamp="2026-01-15T09:31:29" hostname="SPT-MAC-FGY2HG33DX" time="0.003">
+<testsuite name="com.textsearch.search.SearchQueryExecutorTest$ResultFormat" tests="5" skipped="0" failures="0" errors="0" timestamp="2026-01-16T06:43:51" hostname="SPT-MAC-FGY2HG33DX" time="0.003">
   <properties/>
-  <testcase name="should include line content trimmed()" classname="com.textsearch.search.SearchQueryExecutorTest$ResultFormat" time="0.001"/>
-  <testcase name="should include correct column number()" classname="com.textsearch.search.SearchQueryExecutorTest$ResultFormat" time="0.0"/>
-  <testcase name="should include correct line number()" classname="com.textsearch.search.SearchQueryExecutorTest$ResultFormat" time="0.0"/>
-  <testcase name="should include correct file path()" classname="com.textsearch.search.SearchQueryExecutorTest$ResultFormat" time="0.001"/>
+  <testcase name="should include line content trimmed()" classname="com.textsearch.search.SearchQueryExecutorTest$ResultFormat" time="0.0"/>
+  <testcase name="should include correct column number()" classname="com.textsearch.search.SearchQueryExecutorTest$ResultFormat" time="0.001"/>
+  <testcase name="should include correct line number()" classname="com.textsearch.search.SearchQueryExecutorTest$ResultFormat" time="0.001"/>
+  <testcase name="should include correct file path()" classname="com.textsearch.search.SearchQueryExecutorTest$ResultFormat" time="0.0"/>
   <testcase name="should include matched text()" classname="com.textsearch.search.SearchQueryExecutorTest$ResultFormat" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.textsearch.index.TextIndexBuilderTest$ErrorHandling" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-01-15T09:31:28" hostname="SPT-MAC-FGY2HG33DX" time="0.004">
+<testsuite name="com.textsearch.index.TextIndexBuilderTest$ErrorHandling" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-01-16T06:43:51" hostname="SPT-MAC-FGY2HG33DX" time="0.005">
   <properties/>
   <testcase name="should fail for non-existent directory()" classname="com.textsearch.index.TextIndexBuilderTest$ErrorHandling" time="0.001"/>
   <testcase name="should skip binary files gracefully()" classname="com.textsearch.index.TextIndexBuilderTest$ErrorHandling" time="0.002"/>

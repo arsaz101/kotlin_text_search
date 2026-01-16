@@ -36,3 +36,10 @@ kotlin {
 application {
     mainClass.set("com.textsearch.demo.DemoKt")
 }
+
+tasks.register<JavaExec>("fullTest") {
+    group = "verification"
+    description = "Run comprehensive feature test"
+    classpath = sourceSets["main"].runtimeClasspath
+    mainClass.set("com.textsearch.demo.FullTestKt")
+}

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.textsearch.TextSearchLibraryTest$Integration" tests="6" skipped="0" failures="0" errors="0" timestamp="2026-01-15T09:31:28" hostname="SPT-MAC-FGY2HG33DX" time="0.016">
+<testsuite name="com.textsearch.TextSearchLibraryTest$Integration" tests="6" skipped="0" failures="0" errors="0" timestamp="2026-01-16T06:43:51" hostname="SPT-MAC-FGY2HG33DX" time="0.017">
   <properties/>
-  <testcase name="should support multiple search operations()" classname="com.textsearch.TextSearchLibraryTest$Integration" time="0.002"/>
+  <testcase name="should support multiple search operations()" classname="com.textsearch.TextSearchLibraryTest$Integration" time="0.003"/>
   <testcase name="should handle special characters in search()" classname="com.textsearch.TextSearchLibraryTest$Integration" time="0.002"/>
-  <testcase name="should find files containing query()" classname="com.textsearch.TextSearchLibraryTest$Integration" time="0.003"/>
-  <testcase name="should count matches()" classname="com.textsearch.TextSearchLibraryTest$Integration" time="0.002"/>
+  <testcase name="should find files containing query()" classname="com.textsearch.TextSearchLibraryTest$Integration" time="0.002"/>
+  <testcase name="should count matches()" classname="com.textsearch.TextSearchLibraryTest$Integration" time="0.003"/>
   <testcase name="should index and search workflow()" classname="com.textsearch.TextSearchLibraryTest$Integration" time="0.003"/>
-  <testcase name="should search multiple queries in parallel()" classname="com.textsearch.TextSearchLibraryTest$Integration" time="0.003"/>
+  <testcase name="should search multiple queries in parallel()" classname="com.textsearch.TextSearchLibraryTest$Integration" time="0.004"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

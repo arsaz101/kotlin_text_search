@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.textsearch.index.TextIndexTest$SearchInFile" tests="9" skipped="0" failures="0" errors="0" timestamp="2026-01-15T09:31:29" hostname="SPT-MAC-FGY2HG33DX" time="0.002">
+<testsuite name="com.textsearch.index.TextIndexTest$SearchInFile" tests="9" skipped="0" failures="0" errors="0" timestamp="2026-01-16T06:43:51" hostname="SPT-MAC-FGY2HG33DX" time="0.003">
   <properties/>
   <testcase name="should find single occurrence()" classname="com.textsearch.index.TextIndexTest$SearchInFile" time="0.0"/>
-  <testcase name="should perform case-sensitive search by default()" classname="com.textsearch.index.TextIndexTest$SearchInFile" time="0.0"/>
+  <testcase name="should perform case-sensitive search by default()" classname="com.textsearch.index.TextIndexTest$SearchInFile" time="0.001"/>
   <testcase name="should perform case-insensitive search when configured()" classname="com.textsearch.index.TextIndexTest$SearchInFile" time="0.0"/>
-  <testcase name="should preserve matched text case in case-insensitive search()" classname="com.textsearch.index.TextIndexTest$SearchInFile" time="0.001"/>
+  <testcase name="should preserve matched text case in case-insensitive search()" classname="com.textsearch.index.TextIndexTest$SearchInFile" time="0.0"/>
   <testcase name="should find multiple occurrences on same line()" classname="com.textsearch.index.TextIndexTest$SearchInFile" time="0.0"/>
   <testcase name="should find occurrences on multiple lines()" classname="com.textsearch.index.TextIndexTest$SearchInFile" time="0.0"/>
-  <testcase name="should return empty list for non-existent file()" classname="com.textsearch.index.TextIndexTest$SearchInFile" time="0.001"/>
+  <testcase name="should return empty list for non-existent file()" classname="com.textsearch.index.TextIndexTest$SearchInFile" time="0.0"/>
   <testcase name="should respect maxResultsPerFile limit()" classname="com.textsearch.index.TextIndexTest$SearchInFile" time="0.0"/>
   <testcase name="should return empty list for no matches()" classname="com.textsearch.index.TextIndexTest$SearchInFile" time="0.0"/>
   <system-out><![CDATA[]]></system-out>

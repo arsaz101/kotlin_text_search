@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.textsearch.TextSearchLibraryTest$SearchResults" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-01-15T09:31:28" hostname="SPT-MAC-FGY2HG33DX" time="0.006">
+<testsuite name="com.textsearch.TextSearchLibraryTest$SearchResults" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-01-16T06:43:51" hostname="SPT-MAC-FGY2HG33DX" time="0.005">
   <properties/>
   <testcase name="should include line content for context()" classname="com.textsearch.TextSearchLibraryTest$SearchResults" time="0.002"/>
-  <testcase name="should handle multiple matches per line()" classname="com.textsearch.TextSearchLibraryTest$SearchResults" time="0.001"/>
-  <testcase name="should return results in file-line-column format()" classname="com.textsearch.TextSearchLibraryTest$SearchResults" time="0.002"/>
+  <testcase name="should handle multiple matches per line()" classname="com.textsearch.TextSearchLibraryTest$SearchResults" time="0.002"/>
+  <testcase name="should return results in file-line-column format()" classname="com.textsearch.TextSearchLibraryTest$SearchResults" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

@@ -76,9 +76,6 @@ val files = library.findFilesContaining("query")
 // Cancellation
 library.cancelIndexing()
 
-// File watching (optional)
-library.startWatching(rootDirectory)
-library.stopWatching()
 ```
 
 ### Progress Monitoring

@@ -31,10 +31,10 @@ fun main() = runBlocking {
     
     when (result) {
         is IndexingResult.Success -> {
-            println("✓ Indexed ${result.filesIndexed} files (${result.totalBytes} bytes) in ${result.durationMs}ms")
+            println(" Indexed ${result.filesIndexed} files (${result.totalBytes} bytes) in ${result.durationMs}ms")
         }
         else -> {
-            println("✗ Indexing failed: $result")
+            println(" Indexing failed: $result")
             return@runBlocking
         }
     }
@@ -113,7 +113,7 @@ fun main() = runBlocking {
     
     when (cancelResult) {
         is IndexingResult.Cancelled -> {
-            println("✓ Cancellation worked! ${cancelResult.message}")
+            println(" Cancellation worked! ${cancelResult.message}")
             println("  Files indexed before cancellation: ${cancelResult.filesIndexedBeforeCancellation}")
         }
         is IndexingResult.Success -> {

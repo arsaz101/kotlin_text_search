@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.textsearch.TextSearchLibraryTest$Cancellation" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-01-16T06:43:50" hostname="SPT-MAC-FGY2HG33DX" time="0.074">
+<testsuite name="com.textsearch.TextSearchLibraryTest$Cancellation" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-01-23T08:14:07" hostname="DESKTOP-05GJVR1" time="0.338">
   <properties/>
-  <testcase name="should cancel indexing()" classname="com.textsearch.TextSearchLibraryTest$Cancellation" time="0.074"/>
+  <testcase name="should cancel indexing()" classname="com.textsearch.TextSearchLibraryTest$Cancellation" time="0.338"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

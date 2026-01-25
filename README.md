@@ -173,8 +173,17 @@ if (response.truncated) {
 # Run tests
 ./gradlew test
 
-# Run the demo
+# Run the demo (indexes current directory with default queries)
+./gradlew run
+
+# Run with a custom directory
 ./gradlew run -Pdemo.directory=/path/to/search
+
+# Run with custom search queries (comma-separated)
+./gradlew run -Pdemo.queries="TODO,FIXME,error"
+
+# Run with both custom directory and queries
+./gradlew run -Pdemo.directory=/path/to/search -Pdemo.queries="TODO,FIXME,bug"
 ```
 
 ## Architecture

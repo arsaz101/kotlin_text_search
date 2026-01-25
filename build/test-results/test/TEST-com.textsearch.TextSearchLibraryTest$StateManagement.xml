@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.textsearch.TextSearchLibraryTest$StateManagement" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-01-16T06:43:51" hostname="SPT-MAC-FGY2HG33DX" time="0.008">
+<testsuite name="com.textsearch.TextSearchLibraryTest$StateManagement" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-01-23T08:14:08" hostname="DESKTOP-05GJVR1" time="0.041">
   <properties/>
-  <testcase name="should track indexed bytes()" classname="com.textsearch.TextSearchLibraryTest$StateManagement" time="0.002"/>
-  <testcase name="should track indexed files()" classname="com.textsearch.TextSearchLibraryTest$StateManagement" time="0.002"/>
-  <testcase name="should clear all state()" classname="com.textsearch.TextSearchLibraryTest$StateManagement" time="0.002"/>
-  <testcase name="should report indexing status()" classname="com.textsearch.TextSearchLibraryTest$StateManagement" time="0.002"/>
+  <testcase name="should track indexed bytes()" classname="com.textsearch.TextSearchLibraryTest$StateManagement" time="0.011"/>
+  <testcase name="should track indexed files()" classname="com.textsearch.TextSearchLibraryTest$StateManagement" time="0.01"/>
+  <testcase name="should clear all state()" classname="com.textsearch.TextSearchLibraryTest$StateManagement" time="0.011"/>
+  <testcase name="should report indexing status()" classname="com.textsearch.TextSearchLibraryTest$StateManagement" time="0.008"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

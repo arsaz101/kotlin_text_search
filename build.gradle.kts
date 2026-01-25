@@ -37,6 +37,17 @@ application {
     mainClass.set("com.textsearch.demo.DemoKt")
 }
 
+tasks.named<JavaExec>("run") {
+    // Pass the demo.directory property to the application if provided
+    if (project.hasProperty("demo.directory")) {
+        systemProperty("demo.directory", project.property("demo.directory")!!)
+    }
+    // Pass the demo.queries property to the application if provided
+    if (project.hasProperty("demo.queries")) {
+        systemProperty("demo.queries", project.property("demo.queries")!!)
+    }
+}
+
 tasks.register<JavaExec>("fullTest") {
     group = "verification"
     description = "Run comprehensive feature test"

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.textsearch.index.TextIndexTest$AddAndRetrieveFiles" tests="7" skipped="0" failures="0" errors="0" timestamp="2026-01-16T06:43:51" hostname="SPT-MAC-FGY2HG33DX" time="0.002">
+<testsuite name="com.textsearch.index.TextIndexTest$AddAndRetrieveFiles" tests="7" skipped="0" failures="0" errors="0" timestamp="2026-01-23T08:14:09" hostname="DESKTOP-05GJVR1" time="0.01">
   <properties/>
   <testcase name="should track total bytes()" classname="com.textsearch.index.TextIndexTest$AddAndRetrieveFiles" time="0.001"/>
-  <testcase name="should remove file from index()" classname="com.textsearch.index.TextIndexTest$AddAndRetrieveFiles" time="0.0"/>
-  <testcase name="should return false when removing non-existent file()" classname="com.textsearch.index.TextIndexTest$AddAndRetrieveFiles" time="0.0"/>
-  <testcase name="should clear all files()" classname="com.textsearch.index.TextIndexTest$AddAndRetrieveFiles" time="0.001"/>
+  <testcase name="should remove file from index()" classname="com.textsearch.index.TextIndexTest$AddAndRetrieveFiles" time="0.001"/>
+  <testcase name="should return false when removing non-existent file()" classname="com.textsearch.index.TextIndexTest$AddAndRetrieveFiles" time="0.001"/>
+  <testcase name="should clear all files()" classname="com.textsearch.index.TextIndexTest$AddAndRetrieveFiles" time="0.0"/>
   <testcase name="should update existing file()" classname="com.textsearch.index.TextIndexTest$AddAndRetrieveFiles" time="0.0"/>
-  <testcase name="should add file to index()" classname="com.textsearch.index.TextIndexTest$AddAndRetrieveFiles" time="0.0"/>
-  <testcase name="should store file content as lines()" classname="com.textsearch.index.TextIndexTest$AddAndRetrieveFiles" time="0.0"/>
+  <testcase name="should add file to index()" classname="com.textsearch.index.TextIndexTest$AddAndRetrieveFiles" time="0.001"/>
+  <testcase name="should store file content as lines()" classname="com.textsearch.index.TextIndexTest$AddAndRetrieveFiles" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

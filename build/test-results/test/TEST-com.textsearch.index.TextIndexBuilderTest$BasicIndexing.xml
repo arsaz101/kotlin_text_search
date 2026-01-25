@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.textsearch.index.TextIndexBuilderTest$BasicIndexing" tests="5" skipped="0" failures="0" errors="0" timestamp="2026-01-16T06:43:51" hostname="SPT-MAC-FGY2HG33DX" time="0.009">
+<testsuite name="com.textsearch.index.TextIndexBuilderTest$BasicIndexing" tests="5" skipped="0" failures="0" errors="0" timestamp="2026-01-23T08:14:08" hostname="DESKTOP-05GJVR1" time="0.107">
   <properties/>
-  <testcase name="should index empty directory()" classname="com.textsearch.index.TextIndexBuilderTest$BasicIndexing" time="0.001"/>
-  <testcase name="should index single file()" classname="com.textsearch.index.TextIndexBuilderTest$BasicIndexing" time="0.002"/>
-  <testcase name="should make content searchable after indexing()" classname="com.textsearch.index.TextIndexBuilderTest$BasicIndexing" time="0.001"/>
-  <testcase name="should index multiple files()" classname="com.textsearch.index.TextIndexBuilderTest$BasicIndexing" time="0.002"/>
-  <testcase name="should index files in subdirectories()" classname="com.textsearch.index.TextIndexBuilderTest$BasicIndexing" time="0.003"/>
+  <testcase name="should index empty directory()" classname="com.textsearch.index.TextIndexBuilderTest$BasicIndexing" time="0.007"/>
+  <testcase name="should index single file()" classname="com.textsearch.index.TextIndexBuilderTest$BasicIndexing" time="0.011"/>
+  <testcase name="should make content searchable after indexing()" classname="com.textsearch.index.TextIndexBuilderTest$BasicIndexing" time="0.041"/>
+  <testcase name="should index multiple files()" classname="com.textsearch.index.TextIndexBuilderTest$BasicIndexing" time="0.025"/>
+  <testcase name="should index files in subdirectories()" classname="com.textsearch.index.TextIndexBuilderTest$BasicIndexing" time="0.02"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

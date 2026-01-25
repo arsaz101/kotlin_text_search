@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.textsearch.index.TextIndexTest$ThreadSafety" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-01-16T06:43:51" hostname="SPT-MAC-FGY2HG33DX" time="0.092">
+<testsuite name="com.textsearch.index.TextIndexTest$ThreadSafety" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-01-23T08:14:09" hostname="DESKTOP-05GJVR1" time="0.322">
   <properties/>
-  <testcase name="should handle concurrent reads and writes()" classname="com.textsearch.index.TextIndexTest$ThreadSafety" time="0.092"/>
+  <testcase name="should handle concurrent reads and writes()" classname="com.textsearch.index.TextIndexTest$ThreadSafety" time="0.322"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

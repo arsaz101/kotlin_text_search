@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.textsearch.TextSearchLibraryTest$Configuration" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-01-16T06:43:51" hostname="SPT-MAC-FGY2HG33DX" time="0.013">
+<testsuite name="com.textsearch.TextSearchLibraryTest$Configuration" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-01-23T08:14:07" hostname="DESKTOP-05GJVR1" time="0.066">
   <properties/>
-  <testcase name="should allow overriding search config per search()" classname="com.textsearch.TextSearchLibraryTest$Configuration" time="0.007"/>
-  <testcase name="should use custom index config()" classname="com.textsearch.TextSearchLibraryTest$Configuration" time="0.002"/>
-  <testcase name="should use custom search config()" classname="com.textsearch.TextSearchLibraryTest$Configuration" time="0.003"/>
+  <testcase name="should allow overriding search config per search()" classname="com.textsearch.TextSearchLibraryTest$Configuration" time="0.035"/>
+  <testcase name="should use custom index config()" classname="com.textsearch.TextSearchLibraryTest$Configuration" time="0.015"/>
+  <testcase name="should use custom search config()" classname="com.textsearch.TextSearchLibraryTest$Configuration" time="0.014"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.textsearch.search.SearchQueryExecutorTest$FindFilesContaining" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-01-16T06:43:51" hostname="SPT-MAC-FGY2HG33DX" time="0.002">
+<testsuite name="com.textsearch.search.SearchQueryExecutorTest$FindFilesContaining" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-01-23T08:14:10" hostname="DESKTOP-05GJVR1" time="0.023">
   <properties/>
-  <testcase name="should return empty set for no matches()" classname="com.textsearch.search.SearchQueryExecutorTest$FindFilesContaining" time="0.001"/>
-  <testcase name="should return empty set for empty query()" classname="com.textsearch.search.SearchQueryExecutorTest$FindFilesContaining" time="0.0"/>
-  <testcase name="should find files containing query()" classname="com.textsearch.search.SearchQueryExecutorTest$FindFilesContaining" time="0.001"/>
+  <testcase name="should return empty set for no matches()" classname="com.textsearch.search.SearchQueryExecutorTest$FindFilesContaining" time="0.007"/>
+  <testcase name="should return empty set for empty query()" classname="com.textsearch.search.SearchQueryExecutorTest$FindFilesContaining" time="0.007"/>
+  <testcase name="should find files containing query()" classname="com.textsearch.search.SearchQueryExecutorTest$FindFilesContaining" time="0.007"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
